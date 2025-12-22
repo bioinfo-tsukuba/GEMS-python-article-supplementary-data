@@ -6,11 +6,11 @@ English: Execution summary for all jobs in the cell-culture run. Columns: reserv
 **Supplementary Table ST2 — State-transition history (TSV).**
 English: State-transition history across all experiments (TSV). Each row records the state reached at each discrete step; columns list individual experiments, corresponding to Supplementary Video S3.
 
-**Supplementary Video S1 — Experiment-level Gantt animation.**
-English: Gantt animation grouped by experiment for the cell-culture run, showing reservation, optimal, scheduled, and actual start times over wall-clock time. (The colour-mixing experiment executed immediately and has no timeline.)
+**Supplementary Video S1 — Operation-level Gantt animation.**
+English: antt animation grouped by operation type (e.g., imaging, passaging, medium change), showing reservation, optimal, scheduled, and actual start times across experiments. (Colour-mixing has no timeline.)
 
-**Supplementary Video S2 — Operation-level Gantt animation.**
-English: Gantt animation grouped by operation type (e.g., imaging, passaging, medium change), showing reservation, optimal, scheduled, and actual start times across experiments. (Colour-mixing has no timeline.)
+**Supplementary Video S2 — Experiment-level Gantt animation.**
+English: Gantt animation grouped by experiment for the cell-culture run, showing reservation, optimal, scheduled, and actual start times over wall-clock time. (The colour-mixing experiment executed immediately and has no timeline.)
 
 **Supplementary Video S3 — State-transition animation.**
 English: Animation of state progression over discrete steps, independent of wall-clock time; table counterpart is Supplementary Table ST2.
